@@ -1,0 +1,15 @@
+# Large source / export files are not tracked in Git.
+# They are published as GitHub Release assets instead (see README).
+*.kra
+*.kra~
+*.tif
+*.tiff
+
+# Krita autosave / backup
+*.kra-autosave.kra
+*~
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
